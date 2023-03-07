@@ -6,3 +6,4 @@
 #6 . B 128 subredes con 510 hosts
 #6.2 E Ninguna de las respuestas es correcta.
 #7 . A 255.0.0.0
+#8 . D dirección = 172.18.64.0, broadcast 172.18.71.255
